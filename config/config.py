@@ -1,0 +1,10 @@
+DRIVER_PATH=r"C://SeleniumDrivers"
+BASE_URL="https://www.booking.com"
+AUTO_EXIT=False
+CURRENCIES=['EUR', 'USD', 'JOD', 'ILS', 'CNY', 'ARS', 'AUD', 'AZN', 'BHD', 'BRL', 'BGN', 'CAD', 'XOF', 'CLP', 'UAH', 'CNY', 'COP', 'CZK', 'DKK', 'EGP', 'EUR', 'FJD', 'GEL', 'HKD', 'HUF', 'INR', 'IDR', 'JPY', 'JOD', 'KZT', 'KRW', 'KWD', 'MYR', 'MXN', 'MDL', 'NAD', 'ILS', 'TWD', 'NZD', 'NOK', 'OMR', 'PLN', 'GBP', 'QAR', 'RON', 'RUB', 'SAR', 'SGD', 'ZAR', 'SEK', 'CHF', 'THB', 'TRY', 'AED', 'GBP']
+ADULTS_MIN=1
+ADULTS_MAX=30
+CHILDREN_MIN=0
+CHILDREN_MAX=10
+ROOMS_MIN=1
+ROOMS_MAX=30
